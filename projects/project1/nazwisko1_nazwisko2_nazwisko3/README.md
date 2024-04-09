@@ -1,14 +1,12 @@
-## Tytuł plakatu
+## Everything about good authors
 
-Kilka zdań o plakacie. 
+Naszym celem było zebranie informacji o cechach dobrych autorów i przedstawienie ich na plakacie. Wykorzystaliśmy do tego zbiory danych ze strony "Goodreads". Nasz plakat został stworzony przy użyciu aplikacji "Canva", a wykresy na nim widniejące zostały przygotowane w języku "R".
 
-Autorzy: Imię1 Nazwisko1, Imię2 Nazwisko2, Imię3 Nazwisko3.
+Autorzy: Małgorzata Lipińska, Magdalena Sień, Marek Mączka
 
-Źródło/a danych:
-- link1
-- link2
-- ...
+Źródła danych:
+- [https://mengtingwan.github.io/data/goodreads.html](https://mengtingwan.github.io/data/goodreads.html)
+- [https://www.kaggle.com/datasets/choobani/goodread-authors?resource=download](https://www.kaggle.com/datasets/choobani/goodread-authors?resource=download)
 
 
-<img src="nazwisko1_nazwisko2_nazwisko3.png" align="center" width="600"/>
-
+<img src="Lipinska_Maczka_Sien.png" align="center" width="600"/>
